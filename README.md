@@ -1,2 +1,2 @@
 # airfoil-aeroelastic-flutter-analysis
-MATLAB code to evaluate flutter speed and frequency of an airfoil using Theodorsen and Wagner's approach.
+MATLAB code to evaluate flutter speed, frequency, and damping ratio of an airfoil using Theodorsen and Wagner's approach.
